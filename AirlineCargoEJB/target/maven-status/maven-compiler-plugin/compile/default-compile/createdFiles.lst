@@ -1,1 +1,6 @@
+org/AirlineCargoEJB/service/CargoServiceRemote.class
+org/AirlineCargoEJB/service/CargoServiceImpl.class
+org/AirlineCargoEJB/dto/CargoEvent.class
+org/AirlineCargoEJB/dto/CargoBookingRequest.class
+org/AirlineCargoEJB/dto/CargoShipment.class
 org/AirlineCargoEJB/App.class

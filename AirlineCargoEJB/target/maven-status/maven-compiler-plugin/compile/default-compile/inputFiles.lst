@@ -1,1 +1,6 @@
 /Users/hitesh/DRIVE/CANADA/SEM3/J2EEE/J2EE_WORKSPACE/AirlineCargoAppJ2EE/AirlineCargoEJB/src/main/java/org/AirlineCargoEJB/App.java
+/Users/hitesh/DRIVE/CANADA/SEM3/J2EEE/J2EE_WORKSPACE/AirlineCargoAppJ2EE/AirlineCargoEJB/src/main/java/org/AirlineCargoEJB/dto/CargoBookingRequest.java
+/Users/hitesh/DRIVE/CANADA/SEM3/J2EEE/J2EE_WORKSPACE/AirlineCargoAppJ2EE/AirlineCargoEJB/src/main/java/org/AirlineCargoEJB/dto/CargoEvent.java
+/Users/hitesh/DRIVE/CANADA/SEM3/J2EEE/J2EE_WORKSPACE/AirlineCargoAppJ2EE/AirlineCargoEJB/src/main/java/org/AirlineCargoEJB/dto/CargoShipment.java
+/Users/hitesh/DRIVE/CANADA/SEM3/J2EEE/J2EE_WORKSPACE/AirlineCargoAppJ2EE/AirlineCargoEJB/src/main/java/org/AirlineCargoEJB/service/CargoServiceImpl.java
+/Users/hitesh/DRIVE/CANADA/SEM3/J2EEE/J2EE_WORKSPACE/AirlineCargoAppJ2EE/AirlineCargoEJB/src/main/java/org/AirlineCargoEJB/service/CargoServiceRemote.java
